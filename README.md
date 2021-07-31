@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InsectumHavoc
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on (nothing currently...)
+- 💞️ I’m looking to collaborate on (nothing...for now)
 - 📫 How to reach me : -> my email: insectumhavoc@gmail.com | -> my discord: Insectum Havoc #9664
 
 <!---
